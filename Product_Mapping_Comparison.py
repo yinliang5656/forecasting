@@ -10,7 +10,6 @@ import matplotlib.pyplot as plt
 
 import datetime
 
-test
 
 # COMMAND ----------
 
